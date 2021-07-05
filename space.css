@@ -1,0 +1,70 @@
+
+.b{
+    margin-top: 35%;
+    clear:both
+}
+.bb{
+    margin-top: 10%;
+    width: 200px;
+height: 300px;
+float: left;
+margin-left: 3%;
+background-color: rgb(103, 255, 43);
+border: 1px  solid rgb(75, 252, 31);
+box-sizing: border-box;
+transform: rotate(24deg, 24deg);
+transition: 2s;
+animation: animate 2s linear infinite;
+background-repeat: repeat-x;
+box-shadow: 20px 20px 50px rgb(10, 7, 214);
+}
+
+
+
+
+.bb:hover {
+    width: 280px;
+height: 400px;
+float: left;
+margin-left: 15%;
+background-color: rgb(30, 14, 252);
+border: 1px  solid rgb(21, 248, 14);
+margin-top: 5%;
+box-shadow: 20px 20px 50px rgb(10, 7, 214);
+
+}
+
+
+
+
+img{
+    margin-top: 10%;
+    width: 200px;
+height: 300px;
+float: left;
+margin-left: 1%;
+background-color: rgb(103, 255, 43);
+border: 1px  solid rgb(75, 252, 31);
+box-sizing: border-box;
+transform: rotate(24deg, 24deg);
+transition: 2s;
+animation: animate 2s linear infinite;
+background-repeat: repeat-x;
+box-shadow: 20px 20px 50px rgb(7, 173, 214) red;
+}
+
+img:hover{
+    width: 280px;
+    height: 400px;
+    float: left;
+margin-left: 15%;
+box-shadow: 20px 20px 50px rgb(21, 17, 231) red;
+}
+
+
+body{
+    background-color: rgb(255, 255, 55);
+}
+
+
+
